@@ -48,6 +48,6 @@ Tools & Skills Used
 - Interactive Slicers & Cross Filtering
 - Sales Forecasting
 
-About Me
+About Me:
 Data Analyst Fresher | Power BI | Excel | SQL | Python
  Email:akshadaraut0902@gmaill.com
