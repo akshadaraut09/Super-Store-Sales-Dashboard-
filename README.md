@@ -8,11 +8,6 @@ This project focuses on analyzing sales data to understand sales, profit, quanti
 The dashboard converts raw sales data into interactive visualizations and KPIs, making it easier to understand business performance and identify areas of improvement.
 For your Super Store Sales Power BI project, you can mention these KPIs in your README:
 
-  Sales Forecast Page:
--  15-day Sales Forecast
--  Sales trend 2019 — 2021
--  Top States by Sales
-
  📊Key Performance Indicators (KPIs)
 
 Total Sales – Overall revenue generated from all orders.
@@ -25,6 +20,17 @@ Sales by Customer Segment – Sales contribution from Consumer, Corporate, and H
 Sales by Payment Mode – Distribution of sales across different payment methods.
 Sales Trend –Monthly/yearly changes in sales performance.
 Sales Forecast – Expected future sales based on historical sales trends.
+
+ The project also includes a Sales Forecast page that uses historical sales trends to estimate future performance
+
+-  Sales trend 2019 — 2021
+-  Top States by Sales
+  
+Analyzed historical sales trends to identify growth patterns.
+Identified highest and lowest sales periods.
+Forecasted sales for the next 10 days.
+Used a 95% confidence level to estimate future sales.
+Helps in future planning, inventory management, and decision-making.
 
 Dashboard Features
 -  Interactive clickable visuals
