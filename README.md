@@ -51,3 +51,5 @@ Tools & Skills Used
 About Me:
 Data Analyst Fresher | Power BI | Excel | SQL | Python
  Email:akshadaraut0902@gmaill.com
+
+<img width="1324" height="746" alt="Screenshot 2026-08-12 101054" src="https://github.com/user-attachments/assets/7280828b-30a8-48a1-9e1b-b6a3346d7790" />
